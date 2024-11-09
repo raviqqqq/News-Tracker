@@ -1,5 +1,5 @@
 streamlit
 pandas
-numpy = 1.26.4
-Werkzeug = 2.1.2
+numpy == 1.26.4
+werkzeug == 2.1.2
 newspaper3k

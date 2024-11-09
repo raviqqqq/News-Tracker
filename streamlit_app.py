@@ -9,7 +9,7 @@ st.markdown("""# Track The Scent""")
 st.markdown("""This app allows you to obtain the most recent news information from various sources. Customize the news you want be the source, topic or even filter it by a keyword. 
         However, the articles may take some time to load, especially when all sources are selected. So remember, patience is a virtue!""")
 
-st.markdown("News articles from New York Times, Times of India, Hindustan Times, The Hindu, CNN, BBC and The Guardian are presented.")
+st.markdown("News articles from New York Times, Times of India, Hindustan Times, The Hindu, CNN, BBC and The Guardian are pres.")
 
 #Taking keyword to search news by
 st.text_input("Enter a keyword",key = "keyword")
