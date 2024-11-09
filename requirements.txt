@@ -3,3 +3,4 @@ pandas
 numpy == 1.26.4
 werkzeug == 2.1.2
 newspaper3k
+lxml_html_clean==0.3.1

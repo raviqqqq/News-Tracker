@@ -3,6 +3,7 @@ import time
 import pandas as pd
 from newspaper import Article
 from newspaper import Config
+import lxml_html_clean
 
 #Config information for newspaper library
 USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:78.0) Gecko/20100101 Firefox/78.0'
