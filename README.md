@@ -1,4 +1,4 @@
-# Track The Scent
+# News Tracker
 This project is aimed at data collection. It allows the user to obtain news articles by the keyword, specific source, specific news domain, or even a combination of the three.
 The articles are obtained from multiple sources such as NY Times, Times of India, BBC, CNN and others. 
 
